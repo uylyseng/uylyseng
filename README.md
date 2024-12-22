@@ -24,7 +24,7 @@
 </p>
 
 ### 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([your-linkedin-url](https://kh.linkedin.com/in/uylyseng))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://kh.linkedin.com/in/uylyseng)
 
 
 ---
